@@ -12,7 +12,7 @@ CSV Mass Importer is a perfect solution for importing and exporting post data th
 
 == Description ==
 
-CSV Mass Importer is a perfect solution for those looking to import and export post data in a massive manner through CSV file. It supports built-in wordpress types and custom post types.
+CSV Mass Importer is a simple solution for those looking to import and export post data in a massive manner through CSV file. It supports built-in wordpress types and custom post types.
 
 CSV Mass Importer can import attachments and is compatible with WPML.
 
